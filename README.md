@@ -6,7 +6,7 @@ Project Overview
 
 This project demonstrates how to build a modern data engineering solution on Azure, following the Medallion Architecture to organize data into Bronze, Silver, and Gold layers. 
 ## Architecture
-![Azure Data Engineering Architecture](docs/images/photo.png)
+![Azure Data Engineering Architecture](photo.png)
 * **Data Ingestion:** Implement incremental data loading from Azure SQL Database and GitHub into the Bronze layer of Azure Data Lake Storage using Azure Data Factory.
 * **Data Governance:** Use Unity Catalog to manage data assets, metadatastore, and access control across the Azure Cloud.
 * **Data Transformation:** Use Azure Databricks and PySpark to clean, standardize, and transform data in the Silver layer.
