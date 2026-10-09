@@ -20,6 +20,10 @@ This project demonstrates how to build a modern data engineering solution on Azu
 ## Azure Data Factory pipeline
 ![Azure Data Factory](ADF.jpg)
 
+## Databricks Notebooks
+![Azure](databrick.jpg)
+
+
 ## Star Schema Modeling
 ![Star Schema](star_schema.png)
 
