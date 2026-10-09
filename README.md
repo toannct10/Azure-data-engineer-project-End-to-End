@@ -14,3 +14,13 @@ This project demonstrates how to build a modern data engineering solution on Azu
 * **Slowly Changing Dimension (SCD) Type 1:** Implement SCD Type 1 in the Gold layer to update dimension records while overwriting previous values.
 * **Star Schema Design:** Design a Star Schema consisting of fact and dimension tables to support efficient analytical queries and reporting.
 
+## Azure Data Factory pipeline
+![Azure Data Factory](ADF.png)
+
+## Star Schema Modeling
+![Star Schema](star_schema.png)
+
+## Workflow Databricks
+![Workflow Databrick](DataModel1.png)
+
+
