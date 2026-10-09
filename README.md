@@ -9,17 +9,17 @@ This project demonstrates how to build a modern data engineering solution on Azu
 ![Azure Data Engineering Architecture](photo.png)
 ## Pipeline
 
-🥉 Bronze Layer
+🥉 ### Bronze Layer
 
 * **Data Ingestion:** Implement incremental data loading from Azure SQL Database and GitHub into the Bronze layer of Azure Data Lake Storage using Azure Data Factory.
 
-🥈 Silver Layer
+🥈 ### Silver Layer
 
 * **Data Governance:** Use Unity Catalog to manage data assets, metadatastore, and access control across the Azure Cloud.
 
 * **Data Transformation:** Use Azure Databricks and PySpark to clean, standardize, and transform data in the Silver layer.
 
-🥇 Gold Layer
+🥇 ### Gold Layer
 
 * **Slowly Changing Dimension (SCD) Type 1:** Implement SCD Type 1 in the Gold layer to update dimension records while overwriting previous values.
 
