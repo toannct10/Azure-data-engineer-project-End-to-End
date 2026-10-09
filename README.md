@@ -21,11 +21,13 @@ This project demonstrates how to build a modern data engineering solution on Azu
 🥈 Silver Layer
 
 **Data Governance:** Use Unity Catalog to manage data assets, metadatastore, and access control across the Azure Cloud.
+
 **Data Transformation:** Use Azure Databricks and PySpark to clean, standardize, and transform data in the Silver layer.
 
 🥇 Gold Layer
 
 **Slowly Changing Dimension (SCD) Type 1:** Implement SCD Type 1 in the Gold layer to update dimension records while overwriting previous values.
+
 **Star Schema Design:** Design a Star Schema consisting of fact and dimension tables to support efficient analytical queries and ready for BI and analysis
 
 ## Azure Setup
