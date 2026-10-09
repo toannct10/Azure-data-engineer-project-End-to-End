@@ -15,12 +15,12 @@ This project demonstrates how to build a modern data engineering solution on Azu
 * **Star Schema Design:** Design a Star Schema consisting of fact and dimension tables to support efficient analytical queries and reporting.
 
 ## Azure Data Factory pipeline
-![Azure Data Factory](ADF.png)
+![Azure Data Factory](ADF.jpg)
 
 ## Star Schema Modeling
 ![Star Schema](star_schema.png)
 
 ## Workflow Databricks
-![Workflow Databrick](DataModel1.png)
+![Workflow Databrick](DataModel1.jpg)
 
 
