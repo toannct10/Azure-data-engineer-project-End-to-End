@@ -1,0 +1,6 @@
+selected resource name:		incremental_pipeline
+selected resource type:		pipeline
+factory name:			toannguyen
+factory location:		eastus
+subscription id:		6c33a8ff-2b42-43b6-b77a-dca0c37c6747
+time of download (UTC):		Fri, 09 Oct 2026 15:13:30 GMT
